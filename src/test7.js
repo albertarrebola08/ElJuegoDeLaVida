@@ -1,0 +1,2 @@
+//juego.evoluciona()
+//juego.start()
